@@ -1,0 +1,19 @@
+﻿Consumer Drive Patterns,,
+,Personal vehicle,Fleet vehicle
+Driving - mode (km), 24.50 , 204.00 
+Driving - mean (km), 36.49 , 205.00 
+Range Extension, 1.00 , 1.00 
+Gamma-Shape-kAlpha, 3.04 , 205.00 
+Gamma-Scale-thetaBeta, 11.99 , 1.00 
+Vehicle lifetime,10,8
+Discount rate,7%,5%
+Lifetime kilometers," 93,554 "," 483,610 "
+Daily Range limitation Cost for PEV/FCEV (￥), 300 ,
+Range utility, 0.900 , 0.900 
+Travel distance per ride (km),, 8.0 
+Fare per ride (￥),, 20 
+￥/$ in 2020, 6.900 , 6.900 
+Time value (￥/hour), 50 , 40 
+GDP per capital ($2020 USD)," 22,099 ",
+Household numbers," 440,404,704 ",
+Buy share,5.97%,

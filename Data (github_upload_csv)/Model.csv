@@ -1,0 +1,7 @@
+﻿Vehicle Product,Cost Intercept ($),Cost Slope ($/MPG),Breakpoint (MPG)
+Sedan ICEV Level 1," 14,380 ",, 30.00 
+Sedan ICEV Level 2," 14,380 ",, 45.00 
+Sedan ICEV Level 3," 14,380 ",,
+SUV ICEV Level 1," 14,951 ",, 30.00 
+SUV ICEV Level 2," 14,951 ",, 42.00 
+SUV ICEV Level 3," 14,951 ",,
